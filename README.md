@@ -8,4 +8,6 @@ The measurement of mortality improvement, or disimprovement, relies on a measure
 My work in this project is to try to tie the mortality improvement/disimprovement rate to other factors that are measured more timely so that an estimated/predicted mortaltiy improvement/disimprovement rate can be produced in a more timely manner.  
 
 ### Data Sources
-The base mortality data was obtained by the 
+The base mortality data was obtained from the Social Security Administration.  This information is loaded with initial EDA performed in 
+
+Currently, I have obtained drug abuse
